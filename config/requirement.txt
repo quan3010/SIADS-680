@@ -1,0 +1,9 @@
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib
+seaborn
+jupyter-server-proxy
+jupyter-dash
+plotly
