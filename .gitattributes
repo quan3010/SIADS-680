@@ -1,0 +1,4 @@
+workspace_files/assignments/source/assignment1/assets/studentVle.csv filter=lfs diff=lfs merge=lfs -text
+workspace_files/assignments/release/assignment1/assets/studentVle.csv filter=lfs diff=lfs merge=lfs -text
+workspace_files/assignments/source/assignment2/assets/studentVle.csv filter=lfs diff=lfs merge=lfs -text
+workspace_files/assignments/release/assignment2/assets/studentVle.csv filter=lfs diff=lfs merge=lfs -text
